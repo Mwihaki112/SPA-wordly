@@ -1,0 +1,89 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f9f7f3;
+    color: #2e2e2e;
+}
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7BAF9E;
+    color: black;
+    font-size: 28px;
+    height: 90px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+.container{
+    width: 500px;
+    padding: 25px;
+    background-color: white;
+    box-shadow: 1px 3px 3px 3px gray;
+    border-radius: 8px;
+    position: relative;
+    top: 43px;
+    margin: auto;
+}
+.container input{
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #ccc;
+    outline: none;
+    background-color: #f3f3f3;
+    font-size: 16px;
+    border-radius: 6px;
+}
+.searchBar{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.searchBar button{
+    padding: 12px 20px;
+    background-color: #7BAF9E;
+    color: black;
+    font-size: 16px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+
+.text{
+    padding: 20px;
+    margin-top: 20px;
+}
+.text p{
+    margin-top: 15px;
+}
+.text a{
+    display: inline-block;
+    padding: 8px 18px;
+    background-color: #7BAF9E;
+    color: black;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 18px;
+    position: relative;
+    top: 16px;
+}
+.text span{
+    color: gray;
+
+}
+@media screen and (max-width: 600px){
+    .container{
+        width: 80%;
+    }
+
+}
+    
