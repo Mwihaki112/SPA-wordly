@@ -34,7 +34,6 @@ The app uses JavaScript to fetch data from an online dictionary API and shows th
 - JavaScript  
 - [Free Dictionary API](https://dictionaryapi.dev/)
 
----
 
 ## Setup Instructions
 1. Clone the repository:  
