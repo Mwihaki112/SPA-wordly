@@ -8,6 +8,7 @@
 - [How to Use](#how-to-use)
 - [Color Palette](#color-palette)
 - [Folder Structure](#folder-structure)
+- [Deployed Link](#deployed-link)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
 
