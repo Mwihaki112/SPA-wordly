@@ -67,6 +67,9 @@ SPA-WORDLY/
 ├── index.js
 └── README.md
 
+## Deployed Link
+https://spa-wordly-sigma.vercel.app/
+
 ## Future Improvements
 1. Add audio pronunciation for words.
 2. Add dark mode toggle.
